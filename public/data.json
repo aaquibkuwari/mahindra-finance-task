@@ -1,0 +1,90 @@
+[
+    {
+        "id": 124235,
+        "branch": "Thane",
+        "type": "Full",
+        "amount": 547890,
+        "bankName": "CMV HDFC 1223562536",
+        "requestedBy": "Sharad Verma",
+        "employeeCode": "A123",
+        "status": "Pending",
+        "transactionDate": "04/19/2023"
+    },
+    {
+        "id": 874857,
+        "branch": "Navi Mumbai",
+        "type": "Full",
+        "amount": 764756,
+        "bankName": "UYT SCB 8786453425",
+        "requestedBy": "Pramod Mehta",
+        "employeeCode": "A3445",
+        "status": "Approved",
+        "transactionDate": "05/19/2023"
+    },
+    {
+        "id": 987654,
+        "branch": "Mumbai",
+        "type": "Short",
+        "amount": 123456,
+        "bankName": "OIT HDFC 8763548928",
+        "requestedBy": "Vikas Singh",
+        "employeeCode": "A9765",
+        "status": "Rejected",
+        "transactionDate": "06/19/2023"
+    },
+    {
+        "id": 876543,
+        "branch": "Kurla",
+        "type": "Full",
+        "amount": 987545,
+        "bankName": "YTF SBI 435276484",
+        "requestedBy": "Sharad Shrivastava",
+        "employeeCode": "A6467",
+        "status": "Approved",
+        "transactionDate": "04/29/2023"
+    },
+    {
+        "id": 543210,
+        "branch": "Vile Parle",
+        "type": "Full",
+        "amount": 623847,
+        "bankName": "PHS SBI 93745647264",
+        "requestedBy": "Vikas Mehra",
+        "employeeCode": "A0435",
+        "status": "Approved",
+        "transactionDate": "05/23/2023"
+    },
+    {
+        "id": 654325,
+        "branch": "Lower Parel",
+        "type": "Short",
+        "amount": 983763,
+        "bankName": "PDS HDFC 672829373",
+        "requestedBy": "Sharad Kapoor",
+        "employeeCode": "A1789",
+        "status": "Rejected",
+        "transactionDate": "06/02/2023"
+    },
+    {
+        "id": 783989,
+        "branch": "Andheri",
+        "type": "Full",
+        "amount": 234675,
+        "bankName": "GBG HDFC 9835243536",
+        "requestedBy": "Pramod Mathur",
+        "employeeCode": "A0435",
+        "status": "Approved",
+        "transactionDate": "04/20/2023"
+    },
+    {
+        "id": 938362,
+        "branch": "Byculla",
+        "type": "Full",
+        "amount": 873645,
+        "bankName": "MGB SCB 6374647382",
+        "requestedBy": "Vikas Sethi",
+        "employeeCode": "A1789",
+        "status": "Approved",
+        "transactionDate": "02/16/2023"
+    }
+]
