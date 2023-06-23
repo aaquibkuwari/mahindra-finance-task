@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mahindra-finance-task/static/css/main.d20202a4.css",
+    "main.js": "/mahindra-finance-task/static/js/main.d4a4735d.js",
+    "static/js/787.a1642c81.chunk.js": "/mahindra-finance-task/static/js/787.a1642c81.chunk.js",
+    "index.html": "/mahindra-finance-task/index.html",
+    "static/media/sort-svgrepo-com.svg": "/mahindra-finance-task/static/media/sort-svgrepo-com.94d31bef40821243d4dfd5d500b853b6.svg",
+    "static/media/cross-circle-svgrepo-com.svg": "/mahindra-finance-task/static/media/cross-circle-svgrepo-com.1e761992088a9cca5890aaea9744081d.svg",
+    "main.d20202a4.css.map": "/mahindra-finance-task/static/css/main.d20202a4.css.map",
+    "main.d4a4735d.js.map": "/mahindra-finance-task/static/js/main.d4a4735d.js.map",
+    "787.a1642c81.chunk.js.map": "/mahindra-finance-task/static/js/787.a1642c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.d4a4735d.js"
+  ]
+}
